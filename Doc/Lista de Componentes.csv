@@ -1,0 +1,4 @@
+﻿Nome,Quantidade,Componente
+"UUno",1," Arduino Uno R3"
+"U1",1,"Baseado em MCP23008, 32 LCD 16 x 2 (I2C)"
+"U2",1," Sensor de temperatura [TMP36]"
